@@ -6,18 +6,18 @@ Etkinlik Başlıkları:
 
 6 Mart – PHP Giriş
 
-Php Nedir?
-Php Nasıl Kurulur?
-Veritabanı Nasıl Kurulur
-Xampp Kurulumu?
-Php Nasıl Bir Syntax Yapısına Sahiptir?
-Php Temel Bilgiler
-Değişkenler Nasıl Tanımlanır?
-Değişken Türleri
-Değişkenlerde Matematiksel Operatörler
-Değişkenler Özel Arttırma ve Eksiltme Yapıları
-Php’de Özel String Fonksiyonları
-Php’de Diziler
-Php’de Özel Dizi Fonksiyonları
-Php’de Fonksiyon Oluşturma
-Php’de Fonskiyon Parametre İşleme
+Php Nedir?, 
+Php Nasıl Kurulur?,
+Veritabanı Nasıl Kurulur,
+Xampp Kurulumu?,
+Php Nasıl Bir Syntax Yapısına Sahiptir?,
+Php Temel Bilgiler,
+Değişkenler Nasıl Tanımlanır?,
+Değişken Türleri,
+Değişkenlerde Matematiksel Operatörler,
+Değişkenler Özel Arttırma ve Eksiltme Yapıları,
+Php’de Özel String Fonksiyonları,
+Php’de Diziler,
+Php’de Özel Dizi Fonksiyonları,
+Php’de Fonksiyon Oluşturma,
+Php’de Fonskiyon Parametre İşleme.
